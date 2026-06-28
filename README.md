@@ -2,7 +2,7 @@
 该仓库存放深度学习各次课后作业（HW01~HW04）
 
 ## 完整深度学习课程设计项目
-本次期末课程设计完整工程代码（含前后端、模型、数据集、部署服务）已单独存放至独立仓库：👉 [DLCourseDesign 天气场景图像分类识别系统](https://github.com/ZYJ1030/DLCourseDesign)
+本次期末课程设计完整工程代码（含前后端、模型、数据集、部署服务）已单独存放至独立仓库：👉 [DLCourseDesign 天气场景图像分类识别系统](https://github.com/ZYJJ1030/DLCourseDesign)
 
 ## 仓库文件说明
 - HW01~HW04：分阶段课后实验作业
